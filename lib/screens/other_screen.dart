@@ -39,6 +39,6 @@ class _OtherScreenState extends GeneralScreen<OtherScreen> {
     });
   }
   _getData(){
-    print(' Home get data');
+    print(' other get data');
   }
 }
